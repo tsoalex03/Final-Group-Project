@@ -9560,7 +9560,7 @@ body.sidebar-open::before {
 }
 
 .banner {
-  background-color: #f7f8fa;
+  background-color: white;
   text-align: center;
 }
 
@@ -9671,6 +9671,7 @@ body.sidebar-open::before {
   font-size: 18px;
   margin: 0px 12px;
   transition: all 0.7s ease-in-out;
+  height: 1000px;
 }
 
 .customer-feedback .customer-cards .img-customer {
